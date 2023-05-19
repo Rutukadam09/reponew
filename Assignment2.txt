@@ -1,0 +1,47 @@
+<html>
+       <head>
+       </head>
+       <body>
+         
+         <hr>
+         <title>Rutu</title>
+         First name<input type="text"><br></br>
+         Last name<input type="text"><br></br>
+         Password<input type="password"><br></br>
+         date of birth<input type="date"> <br></br>
+         </hr>
+        
+         English<input type="radio"name="language">
+         Hindi<input type="radio"name="language">
+         Marathi<input typr="radio"name="language"><br></br>
+             
+         <hr>
+         male<input type="radio"name="gender">
+         Female<input  type="radio"name= "gender">
+         custom<input type="radio"name= "gender"><br /><br />
+         </hr>
+
+         Skill set<Select value="dropdown">
+         <option value="java">java</option>
+         <option value="SQL">SQL</option>
+         <option value="C">C</option>
+         <option value="C++">C++</option>
+         <option value="Manual Testing">Manual Testing</option>
+         </select><br></br>
+
+         <button type="submit">sign in</button><br></br>
+ 
+         <a href="https://in.search.yahoo.com/search?fr=mcafee&type=E211IN885G0&p=amazon">Forget password?</a><br></br>
+
+        <img src="C:\Users\kadam\OneDrive\Desktop\Pictures\Documents\IMG-20221017-WA0019.jpg" height="300" width="300" border="2"><br></br>
+        <a href="https://in.search.yahoo.com/search?fr=mcafee&type=E211IN885G0&p=flipkart.com"><img src="C:\Users\kadam\OneDrive\Desktop\Pictures\image\IMG_20220309_164901.jpg" alt="rits"height="200" width="200" border="5"></a><br></br>
+
+        <video height="200" width="200" controls>
+        <source src="C:\Users\kadam\OneDrive\Desktop\Pictures\image\video\VID_27570609_140216_872.MP4"  type="video/mp4" >
+        </video>
+       
+         <audio>
+                  
+
+       </body> 
+</html>                                                                                                                                                                                                                                                                                      

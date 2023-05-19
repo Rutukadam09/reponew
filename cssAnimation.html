@@ -1,0 +1,51 @@
+<DUCTYPE html>
+<head>
+      <title>Animation</title>
+      <style type="text/css">
+          div{
+              width:100px;
+              height:100px;
+              display:inline-block;
+              background-color: green; 
+              padding:30px;
+              animation-name:firstanimation; 
+              animation-duration:4s;
+              animation-delay:5s;
+              animation-iteration-count:infinite;
+              border-radius:20px;
+              border:4px dotted black;
+
+          }
+         @keyframes firstanimation{
+                /*from{
+                 background-color:yellow;
+                 color:blue;
+         }
+          to{
+              Background-color:red;
+
+          }*/
+
+          0%{
+             background-color:green;
+           }
+          25%{
+             background-color:purple;
+           }
+          50%{
+             background-color:red;
+          }
+          75%{
+             background-color:blue;
+          }
+          100%{
+             background-color:yellow;
+          }
+       }      
+       
+</style>
+</head>
+<body>
+      <div>Be happy</div>
+</body>
+</html>

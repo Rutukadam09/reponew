@@ -1,0 +1,8 @@
+<html>
+       <head>
+      </head>
+       <body>
+         <p>web page is created by using html,css,javascript</p>
+         <p>the single element which is present on the view port are og the webpade</p>
+        </body> 
+</html>                                                                                                                                                                                                                                                                                      

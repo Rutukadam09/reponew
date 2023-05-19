@@ -1,0 +1,294 @@
+<!DOCTTPE html>
+<head>
+     <title>background</title>
+     <style type="text/css">
+           body{
+           background:plum url("https://vectorified.com/images/whatsapp-icon-download-12.png" );
+           background-image:url("https://vectorified.com/images/whatsapp-icon-download-12.png" );
+           background-repeat:no-repeat;
+           background-size:100px;
+           background-position:center;
+           background-attachment:fixed;
+
+           }
+ </style>
+</head>
+ <body>
+      <p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+<p>My name is Rutuja</p>
+  </body>
+</html>
+
+
+
+
+Border=
+       the border property allow you to specify how the border of the box representing an element should look. Their are multiple properties are their for border
+  1. border color:
+                The boder color property allow you to change the colour of the border surrounding element.You can indidualy change the colour of the border bottom,border left, border left, border top by using the properties called
+     border-top-color:blue, border-right-color:red, border-left-color:yellow, border-top-color:deepink.
+  2. border style property:
+                The border style properrty allow you to select multiple stylings for your border
+       1. Solid:
+              Border is a single solid line.
+       2. Dotted:   
+              Border is a series of dots.
+       3. Dashed:
+              Border is a series of short lines.
+       4. Double:
+              Border is a series of two solid lines.
+       5. Groove:
+              Border looks as it is cerved  into the page.
+       6. Ridge:
+              The border looks opposite to groove.
+       7.Inset:
+              The border makes the box look like it is embeded in the page.
+       8. Outset:
+             The border makes the box look like it is comingout of the canvas.
+       9. Hidden:
+             Here the border is hidden meanes without any border.
+  3.  Borderr width property:
+                 The border width property allow you to set the width of an element border. You can individualy change the width id top width, left width, right width, bottom width.
+            border-top-width:9px
+            border-right-width:9px
+            border-lefy-width:9px
+            border-bottom-width:9px
+            
+  4. Border radius property:
+           In border radius property we can set the radiou of box by using properties like:
+           Border-top-radius:50px
+           Border-bottom-radius:50px
+           Border-right-radius:50px
+           Border-left-radius:50px
+
+      Here border radius to set 10px of the box and all the radius of the box corner like left, right,top,bottom
+ 
+  5. Border image property:
+            Here we can set the image for the border of the box by using a property called border image and border image source by assigning a value in the url
+    The differt types of border image properties are 
+    border-image-slice:80;
+    border-image-width:80;
+    border-image-outset:80;
+    border-image-inset:80;
+
+
+  Padding:
+         Padding property allow you to specify how much space shuold appear between the contant of an element of an border.
+         The value of this attribute should be a percentage or pixe(px)
+         The following css propeerties can be used to set differnt values for the padding on each side of the box using the following properties:
+         1. padding- top
+         2. padding-right
+         3. padding-left
+         4. padding-bottom
+      
+      padding-left:50px;
+      padding-top:20px;
+      padding-bottom:50px;   
+      padding-right:80px;
+
+ * Text:
+        Here we are providing the stylings for our text by using css property.
+     1. Color Property:
+                     It is use to set the color of the text
+     Ex.
+         <DOCTYPE html>
+<head>
+      <title>Text</title>
+      <style type="text/css">
+       p{
+          color:green;
+</style>
+</head>
+
+     2. Text Align:
+                  Here we ue to align the text in differnt form like center,right,left and justify
+   ex.
+      <DOCTYPE html>
+<head>
+      <title>Text</title>
+      <style type="text/css">
+       p{
+          color:green;
+          text-align:center;
+</style>
+</head>
+<body>
+
+</body>
+ 
+
+      3.Text decoration:
+                     This property is used to underline the text, line throw and overline.
+     Ex.
+          text-decoration:underline;
+
+
+      4. Text indent:
+                   This property is use to asign the spacing for the first text in the paraghraph.
+    Ex.
+         text-intent:20px;
+    
+      5. Letter Spacing:
+             This property is use to add and subtract space between the letters that make up a word.
+     Ex
+         letter-spacing:3px;
+
+      6. Word Spacing:
+             This Property is use to add and subtract space between the words of a sentence.
+      Ex.
+          word-spacing:5pc;
+      7. Text Shadow:
+            This Property is use to set the shadow for a text.
+      Ex.
+        text-shadow:15px 4px 5px red;
+      8. Writting mood:
+                    In this property we can set the direction of a property like vertical lr, vertical rl
+      
+       
+          margin property defines the space arround the html element
+         we have the following property to set an element margine
+       1. Margine property:
+                      The margine property allow you to set all the properties for the four margines in one diclaration and it is called as short hand property
+        Ex.
+            margin:100px 200px 200px 100px;
+       2. Margine top property:
+                        The margine top property allow you to set the top margine of an element.
+    Ex.
+         margin-top:100px;
+       3. Margin bottom property:
+                        The margine battom property allow you to set the battom margine for an element.
+       Ex.
+         margin-bottom:50px;
+       4. Margin-left property:
+                          Margine left property allow you to set the left margin of an element.
+       Ex.
+         margine-left:100px;
+       5. Margin right property:
+                         Margin right property allow you to set the right margin of an element.
+       Ex.
+         margin-right:100px;
+       
+      
+
+       Font:
+              Here we are going to provide the styling fornth font available in html. You can set the following font properties of an element.
+       1. Set the font family:
+                        Here we are going to set differnt font families  to a font by assingning th value         
+           Ex.
+           font-family:Arial,Helvetica, sans sarif;
+       2. Set the font style:
+                        Here we are going to set the font style by assinging a value like normal, italic, oblique.
+       3. Font varient:
+                        Here we are going to set the font varient for an element by assigning a value like normal and samll caps.
+       Ex.
+              font-varient:samll caps;
+       4. Font weight;
+                    Here we are going set the font weight of an elemnent the font weight property provides the fuctinality to specify element as bold, bolder, lighter, normal and values from 100 to 900;
+       5. Font size:
+                    The font size property is used to control the size of the font by assigning a values like large, larger, mediam, small, samller, x-large, x-small,xx-large, xx-small.
+       6. Line height;
+                    This property is use to set the height of the perticuler line.
+           Ex.
+              line-height:20px;
+      
+
+
+
+       Cursor:
+             The cursor property of css allow you to specify th type of cursor that should be display to the user.
+       The properties of cursors:
+       1. Auto :
+             Shape of the cursor depends on the context ares it is present
+       2. crosshair:
+                    It represent + sign.
+       3. Default;
+                The default reprent an arrow.
+       4. e-resize:
+               the cursor indicates that an edge of the box is use to moved right.
+       5. 
+     
+
+         It represent a pointing 
+      Moved: It represent the I-bar.
+      Wait: It represent the an 
+      Help: It reprent the ?
+      w-resize: It reprent cursor indicates an edge of an box is to be moves left.
+     Measurment: A no.of measurment units including absolute and relative unit.
+
+
+
+
+     List of all css measurment units along with the property and example.
+     1. 
+
+
+     5. px: It defines a measurment in pixels. Ex. margin-left:100px;
+     6: pp: It defines a measurment in points. Ex. font-size:4pt;
+     7: pc: It defines a measurment in picas. Ex. font-size:4pc;
+     8: ex: This value defines a measurment relative to x-height. It determine by the height of font. Ex. font-size:4ex;
+     9: em: The relative measurment for the height of the height of thr font in em-space unit is equivalent to the size of the font. Ex.
+     
+     1pc=12pt.
+     1point=1/72th inch.
+     1inch=96px.
+     1cm=378px.
+     1mm=378px.
+     1ex=6px.
+     1em=12px.
+    
+
+   * Colours:
+            css use color attribute to provide the styling for the web page. This are use to set color for background,element and border.
+    
+
+
+
+
+
+
+
+ Positon:
+
+      
+Fixed Position :
+           Fixed position allow you to fixed the position of a element to a perticular position of page. While performing scrolling operation of element while be fixed at the one position in the webpage.
+
+Static Position :
+	   Static is the default position for the HTML element. 
+        2. In static position we cant change the position of the element if we assign the values like top and left.
+	   ex :
+	      Positon :static;
+
+CSS 2D Transform :
+	   It allow you to move, rotate, scale and skew elements.
+	   With the CSS transform property you can use following 2D transformation methods.
+	 1. Translate method
+	 2. Rotate method
+	 3. Scale method
+	 4. Scale X-method
+	 5. Scale Y-method
+	 6. Skew X-method
+	 7. Skew Y-method
+	 8. Skew Matrix 
+
+1. Translate Method :
+	The translate method move an element from it's current position according to parameters given for x-axis and Y-axis. 
+
